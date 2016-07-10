@@ -59,3 +59,13 @@ trusted_keys_base.txt
 trusted_keys_example.txt
 undo360controller.cfg
 user.scr
+
+// New since matchmaking
+server_casual.cfg
+server_casual_max_rounds_win_conditions.cfg
+server_casual_max_rounds_win_conditions_mannpower.cfg
+server_casual_rounds_win_conditions.cfg
+server_casual_stopwatch_win_conditions.cfg
+server_competitive_max_rounds_win_conditions.cfg
+server_competitive_max_rounds_win_conditions_high_skill.cfg
+
